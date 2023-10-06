@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import MadLibsForm from './MadLibsForm'; // Corrected import path
-import MadLibsStory from './MadLibsStory'; // Corrected import path
+import MadLibsForm from './MadLibsForm';
+import MadLibsStory from './MadLibsStory';
 
 
 class App extends Component {
